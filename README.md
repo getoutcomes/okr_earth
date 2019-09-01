@@ -1,5 +1,6 @@
 # OKR.Earth
-Site: https://okr.earth
+Site: https://www.okr.earth
+More information: https://hectorperezarenas.com/2019/09/01/okr-earth
 
 Help is appreciated!
 1. Fork
